@@ -7,8 +7,8 @@ public class dfsCourseScheduleII {
 		  static int BLACK = 3;
 
 		  boolean isPossible;
-		  Map<Integer, Integer> color;
-		  Map<Integer, List<Integer>> adjList;
+		  Map<Integer, Integer> colors;
+		  Map<Integer, List<Integer>s> adjList;
 		  List<Integer> topologicalOrder;
 
 		  private void init(int numCourses) {

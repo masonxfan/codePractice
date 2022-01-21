@@ -57,5 +57,5 @@ public class dfs472ConcatenatedWords {
 	        List<String> ans=new ArrayList<>(set);
 	        return ans;
 	    }
-	}
+	}s
 }
